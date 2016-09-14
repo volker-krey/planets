@@ -1,3 +1,4 @@
 This file describes mars.
 Venus is also there.
+Jupiter is the next outer planet to Mars.
 Mercure is the next inner planet.
